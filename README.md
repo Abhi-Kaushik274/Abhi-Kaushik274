@@ -1,11 +1,10 @@
 # Hi there, I'm Abhi Kaushik! 👋
 
 <img align="right" alt="GIF" src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="270" width = '400' />
-<!-- <img align="right" alt="GIF" src = "https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="270" width = '400' /> -->
+<!-- <img align="right" alt="GIF" src = "https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width = '400' /> -->
 
 ## About Me
-I'm a passionate C# .NET Developer with expertise in Web Development. I love building scalable and efficient web applications using a variety of technologies including HTML, CSS, JavaScript, C#, Python, .NET, SQL Server, MongoDB, and Postgres.</br>
-- 😃 Knowledge Seeker <br>
+I'm a passionate C# .NET Developer with expertise in Web Development.<br/> Technologies including HTML, CSS, JavaScript, C#, Python, .NET, SQL Server,<br/> MongoDB, and Postgres.</br>
 - 💻 Backend Development <br>
 - 👀 Self-learner <br>
 
