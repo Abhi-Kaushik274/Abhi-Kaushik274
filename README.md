@@ -10,12 +10,13 @@ I'm a passionate C# .NET Developer with expertise in Web Development.<br/> Techn
 
 ## Skills
 - **Languages and Framework:** </br>
-    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="icons8-.net-framework-48.png"/>
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="icons8-.net-framework-48.png"/>
 - **Databases:** </br>
     <img src="https://img.icons8.com/color/48/000000/sql.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 
 ## Get in Touch
  [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://linkedin.com/in/abhikaushik274)
  [<img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>](mailto:abhi.kshk274@gmail.com)
+ [<img src="https://img.icons8.com/color/48/000000/medium-monogram.png"/>](https://medium.com/@abhi.kshk274)
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
