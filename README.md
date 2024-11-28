@@ -5,7 +5,7 @@
 
 ## About Me
 I'm a passionate C# .NET Developer with expertise in Web Development.<br/> Technologies including HTML, CSS, JavaScript, C#, Angular, .NET, SQL Server, MongoDB, and Postgres.</br>
-- 💻 Backend Development <br>
+- 💻 Full-stack Development <br>
 - 👀 Self-learner <br>
 
 ## Skills
