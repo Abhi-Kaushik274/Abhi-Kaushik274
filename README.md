@@ -4,7 +4,7 @@
 <!-- <img align="right" alt="GIF" src = "https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width = '400' /> -->
 
 ## About Me
-I'm a passionate C# .NET Developer with expertise in Web Development.<br/> Technologies including HTML, CSS, JavaScript, C#, Python, .NET, SQL Server, MongoDB, and Postgres.</br>
+I'm a passionate C# .NET Developer with expertise in Web Development.<br/> Technologies including HTML, CSS, JavaScript, C#, Angular, .NET, SQL Server, MongoDB, and Postgres.</br>
 - 💻 Backend Development <br>
 - 👀 Self-learner <br>
 
