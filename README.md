@@ -1,4 +1,9 @@
-# Hi there, I'm Abhi Kaushik! 👋
+<!--# Hi there, I'm Abhi Kaushik! 👋-->
+<h1 align="center">Hi there, I'm Abhi Kaushik 👋</h1>
+
+<p align="center">
+  <em>Full-Stack .NET + Angular Developer | Passionate about Clean Code | Problem Solver</em>
+</p>
 
 <img align="right" alt="GIF" src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="270" width = '400' />
 <!-- <img align="right" alt="GIF" src = "https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width = '400' /> -->
